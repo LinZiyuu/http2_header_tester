@@ -1,1 +1,3 @@
 # http2_header_tester
+只需要把想测试的头部放到mutation.py中的 gen_single_header函数里面
+之后运行python3 main.py即可
